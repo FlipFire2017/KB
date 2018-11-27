@@ -1,0 +1,409 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : KB_V15.brd                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Nov 06 11:17:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             240000000 160000000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.30000       0.000 NO     DARK 
+  OBLONG     0.60000     x 0.95000      90.000 NO     DARK 
+  OBLONG     1.60000     x 1.00000      90.000 NO     DARK 
+  OBLONG     3.50000     x 1.80000      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLD_TOP >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/SOLD_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.25000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.40000       0.000 NO     DARK 
+  OBLONG     1.70000     x 1.10000      90.000 NO     DARK 
+  OBLONG     3.60000     x 1.90000      90.000 NO     DARK 
+
+     SOLD_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLD_BOTTOM >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/SOLD_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  SQUARE     0.86000                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.16840     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  1.42240     x 1.80340       0.000 NO     DARK 
+  RECTANGLE  1.54940     x 0.40640       0.000 NO     DARK 
+  RECTANGLE  1.54940     x 0.40640      90.000 NO     DARK 
+  RECTANGLE  1.74000     x 2.30000       0.000 NO     DARK 
+  RECTANGLE  2.60000     x 2.65000       0.000 NO     DARK 
+  OBLONG     1.70000     x 1.10000      90.000 NO     DARK 
+  OBLONG     3.60000     x 1.90000      90.000 NO     DARK 
+
+     SOLD_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+
+     SILK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SILK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PAST_TOP >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/PAST_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.15000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.30000       0.000 NO     DARK 
+  OBLONG     1.60000     x 1.00000      90.000 NO     DARK 
+  OBLONG     3.50000     x 1.80000      90.000 NO     DARK 
+
+     PAST_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PAST_BOTTOM >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/PAST_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  SQUARE     0.76000                     0.000 NO     DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.35560      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.65100       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 0.25400       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 0.25400      90.000 NO     DARK 
+  RECTANGLE  1.64000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  2.50000     x 2.55000       0.000 NO     DARK 
+  OBLONG     1.60000     x 1.00000      90.000 NO     DARK 
+  OBLONG     3.50000     x 1.80000      90.000 NO     DARK 
+
+     PAST_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Drill >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/Drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1016
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10160                                  DARK 
+
+     Drill created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     3.00000                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  SQUARE     0.76000                     0.000 NO     DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.90000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 0.35560      90.000 NO     DARK 
+  RECTANGLE  1.27000     x 1.65100       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 0.25400       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 0.25400      90.000 NO     DARK 
+  RECTANGLE  1.64000     x 2.20000       0.000 NO     DARK 
+  RECTANGLE  2.50000     x 2.55000       0.000 NO     DARK 
+  OBLONG     0.60000     x 0.95000      90.000 NO     DARK 
+  OBLONG     1.60000     x 1.00000      90.000 NO     DARK 
+  OBLONG     3.50000     x 1.80000      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < D:/Data/Hardware/KB_V15/gerber/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (209.7536 -58.2500)
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+
+     OUTLINE created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        SOLD_TOP created.
+        SOLD_BOTTOM created.
+        SILK_TOP created.
+        SILK_BOTTOM created.
+        PAST_TOP created.
+        PAST_BOTTOM created.
+        Drill created.
+        BOTTOM created.
+        OUTLINE created with warnings
+
+ ARTWORK finished

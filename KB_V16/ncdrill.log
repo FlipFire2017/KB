@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaad07392.tmp                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Nov 06 11:00:47 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+ WARNING(SPMHMF-365): This design contains 10 slot holes that can NOT be drilled.
+ WARNING(SPMHMF-366): They can be processed by NC routing instead.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.3000  P        T01            0.050000     0.050000
+         0.4000  P        T02            0.100000     0.100000
+         0.6500  P        T03            0.050000     0.050000
+         0.8000  N        T04            0.000100     0.000100
+         1.7018  N        T05            0.000100     0.000100
+         3.0000  N        T06            0.100000     0.100000
+         3.9878  N        T07            0.000100     0.000100
+
+
+ Drill files being output to directory 'D:/Data/Hardware/KB_V15/gerber' ...
+
+
+
+     'KB_V15-1-2.drl' created for holes connecting TOP and BOTTOM
+     ------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.  11.8110    1.9685/  1.9685      PLATED        163
+     T02    2.  15.7480    3.9370/  3.9370      PLATED         13
+     T03    3.  25.5906    1.9685/  1.9685      PLATED          1
+     T04    4.  31.4961    0.0039/  0.0039  NON_PLATED          2
+     T05    5.  67.0000    0.0039/  0.0039  NON_PLATED         14
+     T06    6. 118.1102    3.9370/  3.9370  NON_PLATED         14
+     T07    7. 157.0000    0.0039/  0.0039  NON_PLATED          7
+
+     ---- Total holes:                                        214
+
+     ---- Total head travel:              10.24 feet (3.12 meters)
+
